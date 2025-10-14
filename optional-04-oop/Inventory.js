@@ -8,7 +8,7 @@
  */
 
 class Inventory {
-    constructor();
+    
 }
 
 // Jangan hapus kode di bawah ini!
